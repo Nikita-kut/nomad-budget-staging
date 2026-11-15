@@ -1,3 +1,3 @@
 # Nomad Budget — staging
 
-Сборка из b87ab03ec89daea6be4948d3f0eec67cddc66c52, только тестовые данные.
+Сборка из c75f5e48b7605e2a9b450ebb94d7afe78ba447a9, только тестовые данные.
